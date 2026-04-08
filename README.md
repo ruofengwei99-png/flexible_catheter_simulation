@@ -8,7 +8,7 @@ Two generator scripts are provided:
 
 ---
 
-## Table of Contentså
+## Table of Contents
 
 - [Repository Structure](#repository-structure)
 - [Prerequisites](#prerequisites)
